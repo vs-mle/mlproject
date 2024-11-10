@@ -23,6 +23,4 @@ setup(
     author_email='vs.machinelearning@gmail.com',
     packages=find_packages(),
     install_requires=get_requirements('requirements.txt')
-    
-    
 )
